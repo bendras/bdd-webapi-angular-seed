@@ -3,6 +3,14 @@
 BDD, TDD Single Page Application using Angular.js and Web API and SpecFlow Gherkin suntax
 It is an enterprise level .NET web project template SPA.
 
+This project will be useful to demonstrate software development skills during an interview coding exercise. To start coding you will have to:
+
+0. download zip or git clone https://github.com/bendras/bdd-webapi-angular-seed.git
+0. Open in Visual Studio
+0. Build (this will also restore all NuGet packages)
+0. Start Without Debugging
+0. Test Explorer -> Run All Tests
+
 ## Features
 
 - BDD, TDD
