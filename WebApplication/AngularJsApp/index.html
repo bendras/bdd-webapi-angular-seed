@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>.NET Web Api and angular.js Sample Project</title>
+    <!-- data-main attribute tells require.js to load scripts/main.js after require.js loads. -->
+
+    <link rel="stylesheet" href="/Content/normalize.css">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <ul class="menu">
+        <li><a href="#/">Home</a></li>
+        <li><a href="#/about">About</a></li>
+    </ul>
+
+    <h1>My Sample Project</h1>
+
+    <div ng-view></div>
+
+    <script data-main="startup" src="/scripts/require.js"></script>
+</body>
+</html>

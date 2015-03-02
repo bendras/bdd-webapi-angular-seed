@@ -1,0 +1,4 @@
+﻿define(['angular',
+    './home',
+    './about'
+    ]);

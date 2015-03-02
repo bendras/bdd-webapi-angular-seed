@@ -1,0 +1,29 @@
+﻿{
+    "options": {
+        "predef": {
+            "jQuery": false,
+            "$": false,
+            "require": true,
+            "define": true,
+            "describe": true,
+            "it": true,
+            "before": true,
+            "beforeEach": true,
+            "after": true,
+            "afterEach": true,
+            "expect": true,
+            "spyOn": false,
+			"angular": true
+        },
+        "browser": true,
+        "unparam": true,
+        "nomen": true
+    },
+    "ignore": [
+        "\\scripts\\"
+    ],
+    "output": "Error",
+    "runOnSave": true,
+    "runOnBuild": true,
+    "cancelBuild": true
+}
