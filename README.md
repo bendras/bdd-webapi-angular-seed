@@ -1,6 +1,6 @@
-# BDD SpecFlow Gherkin + Web Api + Angular.js
+# BDD SpecFlow Gherkin + Web Api C# + Angular.js
 
-BDD, TDD Single Page Application using Angular.js and Web API and SpecFlow Gherkin suntax
+BDD, TDD Single Page Application using Angular.js and Web API C# and SpecFlow Gherkin syntax
 It is an enterprise level .NET web project template SPA.
 
 This project will be useful to demonstrate software development skills during an interview coding exercise. To start coding you will have to:
